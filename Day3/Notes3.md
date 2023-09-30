@@ -10,7 +10,7 @@
 
 ## Const
 
-const is alltogether diffrent from var and let 
+const is alltogether diffrent from var and let.
 --> const must be initialized during declaration unlike let and var.
 --> const can neither be updated nor redeclared.
 
@@ -19,5 +19,5 @@ const is the constant.
 ## pro tip
 
 Do Not use var unless editing old code. old as in early 2000's code.
-Try to use const more if u cant use const use let and avoid var at all costs. 
-This will help reduce error in your code.
+Try to use const more if u cant use const use let and avoid var at all costs.
+This will help reduce error in your code
