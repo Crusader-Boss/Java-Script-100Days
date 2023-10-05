@@ -55,3 +55,7 @@
 --> sometimes we want our programs to contain a text which is not executed by the js engine.
 --> Such a text is called comment in javascript.
 --> sometimes comments are used to prevent execution of some lines of code.
+
+// This is a single line comment
+/*This is a sample multiline comment and a tutorial
+from codewithharry*/
